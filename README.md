@@ -121,11 +121,13 @@ Just pick the OS you are in.
 1. Clone the repo
 * If you are using Windows and does not have git installed, then head to my repository. Click code. Then Download ZIP and Extract it on your local computer.
 
-*You can also clone my repository using git
+* You can also clone my repository using git
+   
    ```sh
    git clone https://github.com/hevody/AutoMessenger.git
    ```
 2. Install the Python libraries modules needed from `requirements.txt` 
+
    ```sh
    pip install -r requirements.txt
    ```
