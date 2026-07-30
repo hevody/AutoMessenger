@@ -202,7 +202,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Velocity - [@velocity.exe](https://discord.com/users/1449216769154875606)
 
 Project Link: [https://github.com/hevody/AutoMessenger](https://github.com/hevody/AutoMessenger)
 
