@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-https://github.com/user-attachments/assets/66ee15cf-29d8-48f8-87cc-68d043b72059
+https://github.com/user-attachments/assets/3cca27f7-9802-4d16-a373-944ad045a432
 
 
 This all started when I was in high school. I wanted to send messages to Messenger for announcements, reminding myself automatically by a task which will ring my phone as a notification, and when I wanted to ask for someone's update.<br> 
