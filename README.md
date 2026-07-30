@@ -210,12 +210,6 @@ Project Link: [https://github.com/hevody/AutoMessenger](https://github.com/hevod
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 
 
