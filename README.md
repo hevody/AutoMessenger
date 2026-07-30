@@ -89,7 +89,7 @@ This all started when I was in high school. I wanted to send messages to Messeng
 <br>
 Sadly, these tools do not exist. (At least, I am not aware of.)<br>
 <br>
-So I decided to make a program myself. Hopefully, helping the same people who encounter the same problems as I do.
+So I decided to make a program myself. Hopefully, helping the same people who encounter the same problems as I did.
 
 
 
