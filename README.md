@@ -108,7 +108,7 @@ So I decided to make a program myself. Hopefully, helping the same people who en
 ## Getting Started
 
 These are the instructions on setting up `AutoMessenger` on your computer.<br>
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
