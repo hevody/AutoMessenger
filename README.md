@@ -32,19 +32,20 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Auto Messenger</h3>
 
   <p align="center">
-    project_description
+    A Python script that will automatically send repetitive and tedious chats to Messenger.<br>
+    No more copy-pasting!
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hevody/AutoMessenger"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/hevody/AutoMessenger">View Demo</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/hevody/AutoMessenger/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/hevody/AutoMessenger/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -83,22 +84,20 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+
+This all started when I was in high school. I wanted to send messages to Messenger for announcements, reminding myself automatically by a task which will ring my phone as a notification, and when I wanted to ask for someone's update.<br> 
+<br>
+Sadly, these tools do not exist. (At least, I am not aware of.)<br>
+<br>
+So I decided to make a program myself. Hopefully, helping the same people who encounter the same problems as I do.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
+* [![Python][Python.com]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,36 +106,28 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+These are the instructions on setting up `AutoMessenger` on your computer.<br>
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+You must have `Python` installed inside your computer.<br>
+Python can be downloaded [here](https://www.python.org/downloads/)
+
+Just pick the OS you are in.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
+* If you are using Windows and does not have git installed, then head to my repository. Click code. Then Download ZIP and Extract it on your local computer.
+
+*You can also clone my repository using git
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/hevody/AutoMessenger.git
    ```
-3. Install NPM packages
+2. Install the Python libraries modules needed from `requirements.txt` 
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
+   pip install -r requirements.txt
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -146,7 +137,10 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+In order to run the program, click on `messenger_autosender.bat`<br>
+For more efficient use, I recommend to put your browser in full screen or half window since the program needed a particular coordinate in order to type the messages.<br>
+You can also tweak this setting on the source code.
+
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -156,13 +150,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
+There are many things I wanted to accomplish in this program, and this program is still on its beta stage.
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] plan to use selenium
+- [ ] add csv or json for multiple accounts
+- [ ] add specific messages
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+
+See the [open issues](https://github.com/hevody/AutoMessenger/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,8 +181,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+<a href="https://github.com/hevody/AutoMessenger/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hevody/AutoMessenger" alt="contrib.rocks image" />
 </a>
 
 
@@ -206,7 +201,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/hevody/AutoMessenger](https://github.com/hevody/AutoMessenger)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,6 +250,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Python.com]: https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
 
-must be on full screen
-- [ ] plan to use selenium
+
+
