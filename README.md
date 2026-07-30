@@ -91,15 +91,16 @@ Sadly, these tools do not exist. (At least, I am not aware of.)<br>
 <br>
 So I decided to make a program myself. Hopefully, helping the same people who encounter the same problems as I do.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ### Built With
 
 
 * [![Python][Python.com]][Python-url]
+* [![Batch][Batch.com]][Batch-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -132,7 +133,7 @@ Just pick the OS you are in.
    pip install -r requirements.txt
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -146,7 +147,7 @@ You can also tweak this setting on the source code.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -161,7 +162,7 @@ There are many things I wanted to accomplish in this program, and this program i
 
 See the [open issues](https://github.com/hevody/AutoMessenger/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -179,7 +180,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Top contributors:
 
@@ -194,7 +195,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the project_license. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -205,7 +206,7 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Project Link: [https://github.com/hevody/AutoMessenger](https://github.com/hevody/AutoMessenger)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -216,7 +217,7 @@ Project Link: [https://github.com/hevody/AutoMessenger](https://github.com/hevod
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -254,6 +255,8 @@ Project Link: [https://github.com/hevody/AutoMessenger](https://github.com/hevod
 [JQuery-url]: https://jquery.com 
 [Python.com]: https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
+[Batch.com]: https://img.shields.io/badge/batch-DD0031?style=for-the-badge&logo=batch&logoColor=white
+[Batch-url]: https://www.microsoft.com/en-ph/windows?r=1
 
 
 
