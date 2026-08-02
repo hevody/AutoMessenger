@@ -3,8 +3,8 @@ import time
 import webbrowser
 
 # if perhaps you are running on brave web browser like I do, might as well uncomment the following code
-brave_path = "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe"
-webbrowser.register('brave', None, webbrowser.BackgroundBrowser(brave_path))
+# brave_path = "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe"
+# webbrowser.register('brave', None, webbrowser.BackgroundBrowser(brave_path))
 
 # --- CONFIG --- #
 LIGHT_MODE = True
@@ -16,7 +16,7 @@ else:
 
 screen = pyautogui.size()
 
-constant_y = 1296 # this can change depending on the windows computer
+constant_y = 1296 # this can change depending on the windows computer, so if you know what you're doing, you can change this depending on your needs or for compatability
 width = screen.width
 
 # --- #
